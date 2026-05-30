@@ -51,9 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mehulmm2003/githubcontent/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehulmm2003/githubcontent/tree/master/0160-intersection-of-two-linked-lists) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
+## String
+|  |
+| ------- |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 <!---LeetCode Topics End-->

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehulmm2003/githubcontent/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehulmm2003/githubcontent/tree/master/0020-valid-parentheses) |
 | [1446-consecutive-characters](https://github.com/mehulmm2003/githubcontent/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Counting

@@ -80,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mehulmm2003/githubcontent/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/mehulmm2003/githubcontent/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0540-single-element-in-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Binary Search
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mehulmm2003/githubcontent/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mehulmm2003/githubcontent/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0540-single-element-in-a-sorted-array) |
 ## Linked List
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation

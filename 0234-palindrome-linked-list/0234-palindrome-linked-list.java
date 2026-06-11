@@ -11,9 +11,14 @@
 class Solution {
 
     public ListNode reverse(ListNode head) {
+        ListNode dummy=new ListNode();
         ListNode pre = null;
         ListNode curr = head;
+        
         while (curr != null) {
+            dummy=new ListNode();
+            dummy.val=curr.val;
+
             ListNode nbr = curr.next;
             curr.next = pre;
             pre = curr;
@@ -36,7 +41,7 @@ class Solution {
     }
 
     public boolean isPalindrome(ListNode head) {
-        ListNode  middle=middle(head);
+     ListNode  middle=middle(head);
         ListNode head2=reverse(middle);
         ListNode p1=head;
         ListNode p2=head2;

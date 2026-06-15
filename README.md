@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mehulmm2003/githubcontent/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |

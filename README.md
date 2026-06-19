@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mehulmm2003/githubcontent/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/mehulmm2003/githubcontent/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehulmm2003/githubcontent/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mehulmm2003/githubcontent/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/mehulmm2003/githubcontent/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mehulmm2003/githubcontent/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->

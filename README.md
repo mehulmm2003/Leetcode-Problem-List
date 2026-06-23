@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mehulmm2003/githubcontent/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mehulmm2003/githubcontent/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mehulmm2003/githubcontent/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->

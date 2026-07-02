@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehulmm2003/githubcontent/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mehulmm2003/githubcontent/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/mehulmm2003/githubcontent/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehulmm2003/githubcontent/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/mehulmm2003/githubcontent/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/mehulmm2003/githubcontent/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0965-univalued-binary-tree) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/mehulmm2003/githubcontent/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0965-univalued-binary-tree) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/mehulmm2003/githubcontent/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/mehulmm2003/githubcontent/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0965-univalued-binary-tree) |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mehulmm2003/githubcontent/tree/master/0222-count-complete-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mehulmm2003/githubcontent/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

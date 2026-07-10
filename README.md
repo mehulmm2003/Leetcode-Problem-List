@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/mehulmm2003/githubcontent/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/mehulmm2003/githubcontent/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/mehulmm2003/githubcontent/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mehulmm2003/githubcontent/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0145-binary-tree-postorder-traversal) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mehulmm2003/githubcontent/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0145-binary-tree-postorder-traversal) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mehulmm2003/githubcontent/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |

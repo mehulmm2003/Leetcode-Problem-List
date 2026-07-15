@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mehulmm2003/githubcontent/tree/master/0112-path-sum) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mehulmm2003/githubcontent/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |

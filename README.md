@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mehulmm2003/githubcontent/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mehulmm2003/githubcontent/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/mehulmm2003/githubcontent/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/mehulmm2003/githubcontent/tree/master/0189-rotate-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mehulmm2003/githubcontent/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
 ## Union-Find
 |  |

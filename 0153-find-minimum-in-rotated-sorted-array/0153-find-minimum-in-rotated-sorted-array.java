@@ -7,14 +7,13 @@ class Solution {
 
         while (st < end) {
 
-            int mid = st + (end - st) / 2;
+            int mid = (st + end) / 2;
 
             if (nums[mid] > nums[end]) {
-              
+
                 st = mid + 1;
-            } 
-            else {
-                
+            } else {
+
                 end = mid;
             }
         }

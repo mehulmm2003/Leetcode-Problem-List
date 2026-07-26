@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mehulmm2003/githubcontent/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/mehulmm2003/githubcontent/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mehulmm2003/githubcontent/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/mehulmm2003/githubcontent/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mehulmm2003/githubcontent/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/mehulmm2003/githubcontent/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mehulmm2003/githubcontent/tree/master/0295-find-median-from-data-stream) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/mehulmm2003/githubcontent/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |

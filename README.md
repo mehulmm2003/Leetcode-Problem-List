@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/mehulmm2003/githubcontent/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mehulmm2003/githubcontent/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/mehulmm2003/githubcontent/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulmm2003/githubcontent/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mehulmm2003/githubcontent/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mehulmm2003/githubcontent/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mehulmm2003/githubcontent/tree/master/0257-binary-tree-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mehulmm2003/githubcontent/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mehulmm2003/githubcontent/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/mehulmm2003/githubcontent/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mehulmm2003/githubcontent/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mehulmm2003/githubcontent/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/1382-balance-a-binary-search-tree) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |

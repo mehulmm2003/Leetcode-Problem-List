@@ -18,7 +18,7 @@ class Solution {
         for (int i = 0; i < 26; i++) {
             if (freq[i] == 0) break;
             int cost = (i / 8) + 1; 
-            total += cost * freq[i];
+            total += cost ;
         }
         
         return total;

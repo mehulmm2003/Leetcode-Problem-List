@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulmm2003/githubcontent/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehulmm2003/githubcontent/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -336,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

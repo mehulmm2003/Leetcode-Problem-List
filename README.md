@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/1019-next-greater-node-in-linked-list) |
+| [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulmm2003/githubcontent/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/mehulmm2003/githubcontent/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -340,4 +343,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

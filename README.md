@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mehulmm2003/githubcontent/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehulmm2003/githubcontent/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mehulmm2003/githubcontent/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/mehulmm2003/githubcontent/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mehulmm2003/githubcontent/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/mehulmm2003/githubcontent/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/mehulmm2003/githubcontent/tree/master/0486-predict-the-winner) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mehulmm2003/githubcontent/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mehulmm2003/githubcontent/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehulmm2003/githubcontent/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/mehulmm2003/githubcontent/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mehulmm2003/githubcontent/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehulmm2003/githubcontent/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehulmm2003/githubcontent/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehulmm2003/githubcontent/tree/master/0387-first-unique-character-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mehulmm2003/githubcontent/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/mehulmm2003/githubcontent/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mehulmm2003/githubcontent/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mehulmm2003/githubcontent/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehulmm2003/githubcontent/tree/master/0628-maximum-product-of-three-numbers) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mehulmm2003/githubcontent/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/mehulmm2003/githubcontent/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
@@ -352,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehulmm2003/githubcontent/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

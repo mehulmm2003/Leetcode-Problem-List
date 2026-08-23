@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/mehulmm2003/githubcontent/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/mehulmm2003/githubcontent/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehulmm2003/githubcontent/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1927-sum-game](https://github.com/mehulmm2003/githubcontent/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mehulmm2003/githubcontent/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehulmm2003/githubcontent/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehulmm2003/githubcontent/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mehulmm2003/githubcontent/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/mehulmm2003/githubcontent/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulmm2003/githubcontent/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/mehulmm2003/githubcontent/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulmm2003/githubcontent/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mehulmm2003/githubcontent/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mehulmm2003/githubcontent/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mehulmm2003/githubcontent/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehulmm2003/githubcontent/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mehulmm2003/githubcontent/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 ## Union-Find
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mehulmm2003/githubcontent/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mehulmm2003/githubcontent/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -392,12 +397,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/mehulmm2003/githubcontent/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mehulmm2003/githubcontent/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mehulmm2003/githubcontent/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mehulmm2003/githubcontent/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |

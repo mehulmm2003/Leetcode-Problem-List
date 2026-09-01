@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mehulmm2003/githubcontent/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mehulmm2003/githubcontent/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mehulmm2003/githubcontent/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mehulmm2003/githubcontent/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mehulmm2003/githubcontent/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mehulmm2003/githubcontent/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehulmm2003/githubcontent/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mehulmm2003/githubcontent/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mehulmm2003/githubcontent/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mehulmm2003/githubcontent/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mehulmm2003/githubcontent/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mehulmm2003/githubcontent/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehulmm2003/githubcontent/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/mehulmm2003/githubcontent/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1302-deepest-leaves-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mehulmm2003/githubcontent/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/mehulmm2003/githubcontent/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mehulmm2003/githubcontent/tree/master/1572-matrix-diagonal-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mehulmm2003/githubcontent/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mehulmm2003/githubcontent/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/mehulmm2003/githubcontent/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mehulmm2003/githubcontent/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mehulmm2003/githubcontent/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mehulmm2003/githubcontent/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
